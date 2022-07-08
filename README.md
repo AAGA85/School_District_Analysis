@@ -9,7 +9,8 @@ Nevertheless, after the first release of this analysis, the school board warned 
 The porpuse of this report is summarize the results of updated analysis and show how these changes affected the overall results reported previously.
 
 ## Resources
-
+ [**schools_complete.csv**](https://github.com/AAGA85/School_District_Analysis/blob/bd8700fb341286c880ca581afbc84bb52f3f5179/Resources/schools_complete.csv)
+ [**students_complete.csv**]
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
